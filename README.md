@@ -13,11 +13,6 @@ GlobalHeal est une plateforme numérique visant à connecter les professionnels 
 </div>
 
 
-
-
-
-
-
 ### **2. Espace Patient** 
 
 - **Choix de la Langue ** 
@@ -36,6 +31,13 @@ GlobalHeal est une plateforme numérique visant à connecter les professionnels 
 - **Choix de la Langue :** 
 - **Gestion des Patients :** Voir la liste des patients en attente de traitement ou de consultation.
 - **Gestion des Rendez-vous :** Gérer l’agenda des consultations avec les patients.
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets//5de27a56-5d77-4127-9b45-37034fbe2ec4" alt="Image 1" style="height: 200px; object-fit: contain;"/>
+  <img src="https://github.com/user-attachments/assets/9a48df80-435a-4730-a375-ebe5b525d7d8" alt="Image 2" style="height: 200px; object-fit: contain;"/>
+</div>
+
+
 
 ## **Installation**
 
