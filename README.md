@@ -29,8 +29,8 @@ GlobalHeal est une plateforme numérique visant à connecter les professionnels 
 
 ### **3. Espace Personnel Médical**
 - **Choix de la Langue** 
-- **Gestion des Patients** Voir la liste des patients en attente de traitement ou de consultation.
-- **Gestion des Rendez-vous** Gérer l’agenda des consultations avec les patients.
+- **Gestion des Patients :** Voir la liste des patients en attente de traitement ou de consultation.
+- **Gestion des Rendez-vous :** Gérer l’agenda des consultations avec les patients.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets//5de27a56-5d77-4127-9b45-37034fbe2ec4" alt="Image 1" style="height: 200px; object-fit: contain;"/>
