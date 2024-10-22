@@ -7,7 +7,7 @@ GlobalHeal est une plateforme numérique visant à connecter les professionnels 
 ### **1. Inscription et Connexion**
 - Les patients et le personnel médical peuvent s'inscrire ou se connecter. Les patients doivent fournir des informations de base (nom, pays, email, ID, spécialité( pour staff médical)..).
 
-<img src="https://github.com/user-attachments/assets/e9d7c952-a3fd-4b6c-8fd8-025224d6871d" alt="Image 1" width="300" style="margin-right: 50px;"/><img src="https://github.com/user-attachments/assets/d50bc990-f2bc-4095-8c7c-ae29b8f98d76" alt="Image 2" width="300"/>
+<img src="https://github.com/user-attachments/assets/e9d7c952-a3fd-4b6c-8fd8-025224d6871d" alt="Image 1" width="300" style="margin-right: 500px;"/><img src="https://github.com/user-attachments/assets/d50bc990-f2bc-4095-8c7c-ae29b8f98d76" alt="Image 2" width="300"/>
 
 
 
