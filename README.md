@@ -1,4 +1,4 @@
-# **GlobalHeal**
+# **GLOBALHEAL**
 
 GlobalHeal est une plateforme numérique visant à connecter les professionnels de santé internationaux avec les patients qui ne peuvent pas trouver les soins adaptés dans leur pays, en raison d'obstacles tels que le manque d'expertise ou de matériel médical. La plateforme facilite une collaboration transparente, offrant des services de santé personnalisés tout en permettant aux professionnels de la santé de développer leur expertise et leur réputation à l’échelle mondiale.
 
@@ -10,6 +10,7 @@ GlobalHeal est une plateforme numérique visant à connecter les professionnels 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/user-attachments/assets/e9d7c952-a3fd-4b6c-8fd8-025224d6871d" alt="Image 1" style="height: 200px; object-fit: contain;"/>
   <img src="https://github.com/user-attachments/assets/d50bc990-f2bc-4095-8c7c-ae29b8f98d76" alt="Image 2" style="height: 200px; object-fit: contain;"/>
+  <img src="https://github.com/user-attachments/assets/be7ffb22-d70a-4581-a7d5-025bdece9685" alt="Image 2" style="height: 200px; object-fit: contain;"/>
 </div>
 
 
