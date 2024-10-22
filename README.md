@@ -21,6 +21,12 @@ GlobalHeal est une plateforme numérique visant à connecter les professionnels 
 - **Prendre Rendez-vous ** 
 - **Recommandations de Traitement :** Les patients peuvent recevoir des plans de traitement à distance si le déplacement n'est pas nécessaire.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets//61235be0-2360-47d0-b7ca-26eae250cabc" alt="Image 1" style="height: 200px; object-fit: contain;"/>
+  <img src="https://github.com/user-attachments/assets/5a5eb474-34aa-4375-b0b9-77e02416c59e" alt="Image 2" style="height: 200px; object-fit: contain;"/>
+</div>
+
+
 ### **3. Espace Personnel Médical**
 - **Choix de la Langue :** 
 - **Gestion des Patients :** Voir la liste des patients en attente de traitement ou de consultation.
