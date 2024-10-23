@@ -45,7 +45,7 @@ Pour installer le projet en local, suis ces étapes :
 
 1. Clone le dépôt :
     ```bash
-    git clone https://github.com/your-username/GlobalHeal.git
+    git clone https://github.com/SAFAEBD/GlobalHeal.git
     ```
 2. Installe les dépendances nécessaires avec Maven ou Gradle (selon ta configuration).
 3. Configure une base de données MySQL et importe le schéma depuis le fichier `/db/schema.sql`.
