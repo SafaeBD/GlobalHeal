@@ -71,8 +71,8 @@ Après avoir configuré l’application, accède à l'URL `http://localhost:8080
 - **Entités** : 
   - `Patient`
   - `Specialist`
-  - `Maladie` (Maladie)
-  - `Traitement` (Traitement)
+  - `Maladie` 
+  - `Traitement` 
 - Chaque entité possède sa classe DAO qui gère les opérations de base de données pour cette entité.
 
 ## **Contribution**
