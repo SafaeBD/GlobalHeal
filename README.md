@@ -65,7 +65,6 @@ Après avoir configuré l’application, accède à l'URL `http://localhost:8080
 - **Base de données** : MySQL est utilisé pour stocker les données des patients, médecins, rendez-vous et maladies.
 - **Pattern DAO** : Les classes DAO (`PatientDAO.java`, `SpecialistDAO.java`, etc.) gèrent toutes les interactions avec la base de données MySQL.
 - **Pages Web** : Les fichiers JSP sont utilisés pour créer l'interface utilisateur dynamique. Ces pages sont rendues par les Servlets et affichent les informations des patients et médecins.
-- **JSON** : Utilisé pour l’échange de données lorsque nécessaire (par exemple, pour transférer des données entre différents composants).
 
 ## **Conception de la Base de Données**
 
