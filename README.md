@@ -22,7 +22,6 @@ GlobalHeal est une plateforme numérique visant à connecter les professionnels 
 - **Recommandations de Traitement :** Les patients peuvent recevoir des plans de traitement à distance si le déplacement n'est pas nécessaire.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets//61235be0-2360-47d0-b7ca-26eae250cabc" alt="Image 1" style="height: 200px; object-fit: contain;"/>
   <img src="https://github.com/user-attachments/assets/ba6a7b0a-2fc8-478d-b125-e4e019c7b32d" alt="Image 2" style="height: 200px; object-fit: contain;"/>
 </div>
 
@@ -34,7 +33,6 @@ GlobalHeal est une plateforme numérique visant à connecter les professionnels 
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets//5de27a56-5d77-4127-9b45-37034fbe2ec4" alt="Image 1" style="height: 200px; object-fit: contain;"/>
-  <img src="https://github.com/user-attachments/assets/9a48df80-435a-4730-a375-ebe5b525d7d8" alt="Image 2" style="height: 200px; object-fit: contain;"/>
 </div>
 
 
